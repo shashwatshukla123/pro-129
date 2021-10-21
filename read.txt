@@ -1,0 +1,4 @@
+Here dwarf_stars.csv is the file we got output from data_scraper.py file after running it.
+dwarf_stars2.csv is the file that we got from git[whitehat] because we got no data in dwarf_stars.csv
+unit_converted_stars.csv is the second file we have merge.
+total.csv is the output of mergeed file.
