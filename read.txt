@@ -2,3 +2,12 @@ Here dwarf_stars.csv is the file we got output from data_scraper.py file after r
 dwarf_stars2.csv is the file that we got from git[whitehat] because we got no data in dwarf_stars.csv
 unit_converted_stars.csv is the second file we have merge.
 total.csv is the output of mergeed file.
+
+encoding='utf8' :--
+UTF-8 is one of the most commonly used encodings, and Python often defaults to using it. 
+UTF stands for “Unicode Transformation Format”, and the '8' means that 8-bit values are used in the encoding. 
+(There are also UTF-16 and UTF-32 encodings, but they are less frequently used than UTF-8.)
+
+UTF-8 is the most widely used way to represent Unicode text in web pages, 
+and you should always use UTF-8 when creating your web pages and databases. 
+But, in principle, UTF-8 is only one of the possible ways of encoding Unicode characters.
